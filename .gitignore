@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.py[cod]
+venv/
+fgvenv/
+.venv/
+venv312/
+reports/prediction_history.db
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
