@@ -82,7 +82,7 @@ it, overriding the custom sidebar navigation.
 3. **Model Intelligence** - metrics, radar, training time, ROC/PR/calibration, confusion matrices, tuning summary, threshold monitor and usage monitor.
 4. **Financial Risk Analytics** - correlation heatmap, importance (SHAP / permutation), top related features, ratio analysis, risk distribution, dataset explorer, EDA gallery.
 5. **Company Risk Report** - per-company explanation, observations, limitations; PDF and CSV download.
-6. **About & Methodology** - objective, dataset, workflow, algorithms, preprocessing, evaluation, limitations and future scope.
+6. **About & Methodology** - examiner-friendly documentation.
 
 Risk categories are relative to each model's decision threshold *t*: Low < t/2, Moderate < t, High < (1+t)/2, Critical above. This is a project convention, not an industry standard.
 
