@@ -1,0 +1,451 @@
+model,method,feature,importance
+svm,Permutation importance (drop in ROC-AUC),ROA(C) before interest and depreciation before interest,0.018055071453468248
+svm,Permutation importance (drop in ROC-AUC),ROA(A) before interest and % after tax,0.0
+svm,Permutation importance (drop in ROC-AUC),ROA(B) before interest and depreciation after tax,0.016312303938654377
+svm,Permutation importance (drop in ROC-AUC),Operating Gross Margin,0.0018821889159958158
+svm,Permutation importance (drop in ROC-AUC),Realized Sales Gross Margin,0.0006273963053317887
+svm,Permutation importance (drop in ROC-AUC),Operating Profit Rate,0.0036946671314033556
+svm,Permutation importance (drop in ROC-AUC),Pre-tax net Interest Rate,0.0
+svm,Permutation importance (drop in ROC-AUC),After-tax net Interest Rate,0.0
+svm,Permutation importance (drop in ROC-AUC),Non-industry income and expenditure/revenue,0.0
+svm,Permutation importance (drop in ROC-AUC),Continuous interest rate (after tax),0.007668177065177794
+svm,Permutation importance (drop in ROC-AUC),Operating Expense Rate,0.0
+svm,Permutation importance (drop in ROC-AUC),Research and development expense rate,0.007040780759845106
+svm,Permutation importance (drop in ROC-AUC),Cash flow rate,0.0
+svm,Permutation importance (drop in ROC-AUC),Interest-bearing debt interest rate,0.005855698849772502
+svm,Permutation importance (drop in ROC-AUC),Tax rate (A),0.0
+svm,Permutation importance (drop in ROC-AUC),Net Value Per Share (B),0.0
+svm,Permutation importance (drop in ROC-AUC),Net Value Per Share (A),0.0
+svm,Permutation importance (drop in ROC-AUC),Net Value Per Share (C),0.0
+svm,Permutation importance (drop in ROC-AUC),Persistent EPS in the Last Four Seasons,0.03025444405716444
+svm,Permutation importance (drop in ROC-AUC),Cash Flow Per Share,0.008016730568141197
+svm,Permutation importance (drop in ROC-AUC),Revenue Per Share (Yuan ¥),0.012199372603694848
+svm,Permutation importance (drop in ROC-AUC),Operating Profit Per Share (Yuan ¥),0.0
+svm,Permutation importance (drop in ROC-AUC),Per Share Net profit before tax (Yuan ¥),0.005925409550363923
+svm,Permutation importance (drop in ROC-AUC),Realized Sales Gross Profit Growth Rate,0.0006273963053308897
+svm,Permutation importance (drop in ROC-AUC),Operating Profit Growth Rate,0.0
+svm,Permutation importance (drop in ROC-AUC),After-tax Net Profit Growth Rate,0.001951899616589935
+svm,Permutation importance (drop in ROC-AUC),Regular Net Profit Growth Rate,0.009550365981177205
+svm,Permutation importance (drop in ROC-AUC),Continuous Net Profit Growth Rate,0.0
+svm,Permutation importance (drop in ROC-AUC),Total Asset Growth Rate,0.0
+svm,Permutation importance (drop in ROC-AUC),Net Value Growth Rate,0.010944579993028123
+svm,Permutation importance (drop in ROC-AUC),Total Asset Return Growth Rate Ratio,0.00034855350296025687
+svm,Permutation importance (drop in ROC-AUC),Cash Reinvestment %,0.0
+svm,Permutation importance (drop in ROC-AUC),Current Ratio,0.0
+svm,Permutation importance (drop in ROC-AUC),Quick Ratio,0.009620076681770427
+svm,Permutation importance (drop in ROC-AUC),Interest Expense Ratio,0.011014290693620442
+svm,Permutation importance (drop in ROC-AUC),Total debt/Total net worth,0.03248518647612501
+svm,Permutation importance (drop in ROC-AUC),Debt ratio %,0.05374695015685261
+svm,Permutation importance (drop in ROC-AUC),Long-term fund suitability ratio (A),0.0
+svm,Permutation importance (drop in ROC-AUC),Borrowing dependency,0.11334959916348132
+svm,Permutation importance (drop in ROC-AUC),Contingent liabilities/Net worth,0.0013245033112572469
+svm,Permutation importance (drop in ROC-AUC),Operating profit/Paid-in capital,0.0
+svm,Permutation importance (drop in ROC-AUC),Net profit before tax/Paid-in capital,0.004879749041475961
+svm,Permutation importance (drop in ROC-AUC),Inventory and accounts receivable/Net value,0.006204252352735006
+svm,Permutation importance (drop in ROC-AUC),Total Asset Turnover,0.01233879400487904
+svm,Permutation importance (drop in ROC-AUC),Accounts Receivable Turnover,0.018821889159986924
+svm,Permutation importance (drop in ROC-AUC),Average Collection Days,0.14095503659813036
+svm,Permutation importance (drop in ROC-AUC),Inventory Turnover Rate (times),0.00230045311955154
+svm,Permutation importance (drop in ROC-AUC),Fixed Assets Turnover Frequency,0.02181944928546617
+svm,Permutation importance (drop in ROC-AUC),Net Worth Turnover Rate (times),0.0011153712094793848
+svm,Permutation importance (drop in ROC-AUC),Revenue per person,0.09717671662601023
+svm,Permutation importance (drop in ROC-AUC),Operating profit per person,0.0
+svm,Permutation importance (drop in ROC-AUC),Allocation rate per person,0.05590798187522221
+svm,Permutation importance (drop in ROC-AUC),Working Capital to Total Assets,0.015266643429765515
+svm,Permutation importance (drop in ROC-AUC),Quick Assets/Total Assets,0.00404322063436586
+svm,Permutation importance (drop in ROC-AUC),Current Assets/Total Assets,0.0
+svm,Permutation importance (drop in ROC-AUC),Cash/Total Assets,0.03290345067968119
+svm,Permutation importance (drop in ROC-AUC),Quick Assets/Current Liability,0.0
+svm,Permutation importance (drop in ROC-AUC),Cash/Current Liability,0.0
+svm,Permutation importance (drop in ROC-AUC),Current Liability to Assets,0.05332868595329779
+svm,Permutation importance (drop in ROC-AUC),Operating Funds to Liability,0.0
+svm,Permutation importance (drop in ROC-AUC),Inventory/Working Capital,0.0
+svm,Permutation importance (drop in ROC-AUC),Inventory/Current Liability,0.0
+svm,Permutation importance (drop in ROC-AUC),Current Liabilities/Liability,0.004740327640292218
+svm,Permutation importance (drop in ROC-AUC),Working Capital/Equity,0.0
+svm,Permutation importance (drop in ROC-AUC),Current Liabilities/Equity,0.0
+svm,Permutation importance (drop in ROC-AUC),Long-term Liability to Current Assets,0.0017427675148120726
+svm,Permutation importance (drop in ROC-AUC),Retained Earnings to Total Assets,0.018682467758801384
+svm,Permutation importance (drop in ROC-AUC),Total income/Total expense,0.001463924712441889
+svm,Permutation importance (drop in ROC-AUC),Total expense/Assets,0.0
+svm,Permutation importance (drop in ROC-AUC),Current Asset Turnover Rate,0.0005576856047390181
+svm,Permutation importance (drop in ROC-AUC),Quick Asset Turnover Rate,0.0021610317183673473
+svm,Permutation importance (drop in ROC-AUC),Working capitcal Turnover Rate,0.0
+svm,Permutation importance (drop in ROC-AUC),Cash Turnover Rate,0.0184036249564312
+svm,Permutation importance (drop in ROC-AUC),Cash Flow to Sales,0.008574416172882014
+svm,Permutation importance (drop in ROC-AUC),Fixed Assets to Assets,0.006064830951549465
+svm,Permutation importance (drop in ROC-AUC),Equity to Long-term Liability,0.0011153712094798343
+svm,Permutation importance (drop in ROC-AUC),Cash Flow to Total Assets,0.0017427675148120726
+svm,Permutation importance (drop in ROC-AUC),Cash Flow to Liability,0.0
+svm,Permutation importance (drop in ROC-AUC),CFO to Assets,0.004252352736142823
+svm,Permutation importance (drop in ROC-AUC),Cash Flow to Equity,0.0
+svm,Permutation importance (drop in ROC-AUC),Current Liability to Current Assets,0.015615196932729367
+svm,Permutation importance (drop in ROC-AUC),Liability-Assets Flag,0.0
+svm,Permutation importance (drop in ROC-AUC),Net Income to Total Assets,0.024259323806204602
+svm,Permutation importance (drop in ROC-AUC),Total assets to GNP price,0.0013245033112567976
+svm,Permutation importance (drop in ROC-AUC),No-credit Interval,0.0017427675148120726
+svm,Permutation importance (drop in ROC-AUC),Net Income to Stockholder's Equity,0.0013245033112572469
+svm,Permutation importance (drop in ROC-AUC),Liability to Equity,0.0
+svm,Permutation importance (drop in ROC-AUC),Degree of Financial Leverage (DFL),0.021470895782502317
+svm,Permutation importance (drop in ROC-AUC),Interest Coverage Ratio (Interest expense to EBIT),0.030324154757755864
+svm,Permutation importance (drop in ROC-AUC),Equity to Liability,0.00487974904147641
+extra_trees,Native importance (Gini/MDI),ROA(C) before interest and depreciation before interest,0.030250519530597913
+extra_trees,Native importance (Gini/MDI),ROA(A) before interest and % after tax,0.03188616837342791
+extra_trees,Native importance (Gini/MDI),ROA(B) before interest and depreciation after tax,0.03156969950764663
+extra_trees,Native importance (Gini/MDI),Operating Gross Margin,0.008342862257414336
+extra_trees,Native importance (Gini/MDI),Realized Sales Gross Margin,0.007349814010486458
+extra_trees,Native importance (Gini/MDI),Operating Profit Rate,0.005158992514562591
+extra_trees,Native importance (Gini/MDI),Pre-tax net Interest Rate,0.006420359189156321
+extra_trees,Native importance (Gini/MDI),After-tax net Interest Rate,0.006293967819222936
+extra_trees,Native importance (Gini/MDI),Non-industry income and expenditure/revenue,0.006447625504012429
+extra_trees,Native importance (Gini/MDI),Continuous interest rate (after tax),0.007897108417190428
+extra_trees,Native importance (Gini/MDI),Operating Expense Rate,0.006795962293634552
+extra_trees,Native importance (Gini/MDI),Research and development expense rate,0.006993624180118298
+extra_trees,Native importance (Gini/MDI),Cash flow rate,0.007071892407484022
+extra_trees,Native importance (Gini/MDI),Interest-bearing debt interest rate,0.0061130828197403855
+extra_trees,Native importance (Gini/MDI),Tax rate (A),0.022745749838793225
+extra_trees,Native importance (Gini/MDI),Net Value Per Share (B),0.019544625225628227
+extra_trees,Native importance (Gini/MDI),Net Value Per Share (A),0.018196935843521004
+extra_trees,Native importance (Gini/MDI),Net Value Per Share (C),0.016732662579740633
+extra_trees,Native importance (Gini/MDI),Persistent EPS in the Last Four Seasons,0.026561891326358007
+extra_trees,Native importance (Gini/MDI),Cash Flow Per Share,0.006439563010945474
+extra_trees,Native importance (Gini/MDI),Revenue Per Share (Yuan ¥),0.005402801259978438
+extra_trees,Native importance (Gini/MDI),Operating Profit Per Share (Yuan ¥),0.010772465702909496
+extra_trees,Native importance (Gini/MDI),Per Share Net profit before tax (Yuan ¥),0.020197478679037904
+extra_trees,Native importance (Gini/MDI),Realized Sales Gross Profit Growth Rate,0.002614636014310539
+extra_trees,Native importance (Gini/MDI),Operating Profit Growth Rate,0.0021820835536284743
+extra_trees,Native importance (Gini/MDI),After-tax Net Profit Growth Rate,0.002382443790310823
+extra_trees,Native importance (Gini/MDI),Regular Net Profit Growth Rate,0.002838840283298587
+extra_trees,Native importance (Gini/MDI),Continuous Net Profit Growth Rate,0.002476497831466315
+extra_trees,Native importance (Gini/MDI),Total Asset Growth Rate,0.01732942141790691
+extra_trees,Native importance (Gini/MDI),Net Value Growth Rate,0.004891804108873563
+extra_trees,Native importance (Gini/MDI),Total Asset Return Growth Rate Ratio,0.00550292215238199
+extra_trees,Native importance (Gini/MDI),Cash Reinvestment %,0.006022723675004001
+extra_trees,Native importance (Gini/MDI),Current Ratio,0.008936186636832434
+extra_trees,Native importance (Gini/MDI),Quick Ratio,0.008195694010121017
+extra_trees,Native importance (Gini/MDI),Interest Expense Ratio,0.006174260794377171
+extra_trees,Native importance (Gini/MDI),Total debt/Total net worth,0.015063567003953842
+extra_trees,Native importance (Gini/MDI),Debt ratio %,0.05147601583874581
+extra_trees,Native importance (Gini/MDI),Long-term fund suitability ratio (A),0.0034844628339473927
+extra_trees,Native importance (Gini/MDI),Borrowing dependency,0.03171182472254121
+extra_trees,Native importance (Gini/MDI),Contingent liabilities/Net worth,0.00464616739876741
+extra_trees,Native importance (Gini/MDI),Operating profit/Paid-in capital,0.013105886303464534
+extra_trees,Native importance (Gini/MDI),Net profit before tax/Paid-in capital,0.01814092482024107
+extra_trees,Native importance (Gini/MDI),Inventory and accounts receivable/Net value,0.00988623669391258
+extra_trees,Native importance (Gini/MDI),Total Asset Turnover,0.009890480784660228
+extra_trees,Native importance (Gini/MDI),Accounts Receivable Turnover,0.00303108287518067
+extra_trees,Native importance (Gini/MDI),Average Collection Days,0.005567256378675062
+extra_trees,Native importance (Gini/MDI),Inventory Turnover Rate (times),0.0071422432008418435
+extra_trees,Native importance (Gini/MDI),Fixed Assets Turnover Frequency,0.0140572480202955
+extra_trees,Native importance (Gini/MDI),Net Worth Turnover Rate (times),0.005656653623908013
+extra_trees,Native importance (Gini/MDI),Revenue per person,0.0049697589335999486
+extra_trees,Native importance (Gini/MDI),Operating profit per person,0.006690501093139384
+extra_trees,Native importance (Gini/MDI),Allocation rate per person,0.006234748803666781
+extra_trees,Native importance (Gini/MDI),Working Capital to Total Assets,0.024736051786299496
+extra_trees,Native importance (Gini/MDI),Quick Assets/Total Assets,0.012056340846143671
+extra_trees,Native importance (Gini/MDI),Current Assets/Total Assets,0.008216251192675576
+extra_trees,Native importance (Gini/MDI),Cash/Total Assets,0.018495777398687362
+extra_trees,Native importance (Gini/MDI),Quick Assets/Current Liability,0.007483311451118477
+extra_trees,Native importance (Gini/MDI),Cash/Current Liability,0.0062214788332231145
+extra_trees,Native importance (Gini/MDI),Current Liability to Assets,0.027930431305079828
+extra_trees,Native importance (Gini/MDI),Operating Funds to Liability,0.007640147313028569
+extra_trees,Native importance (Gini/MDI),Inventory/Working Capital,0.0042510922696636574
+extra_trees,Native importance (Gini/MDI),Inventory/Current Liability,0.004364011431280891
+extra_trees,Native importance (Gini/MDI),Current Liabilities/Liability,0.007795240341774311
+extra_trees,Native importance (Gini/MDI),Working Capital/Equity,0.010801138428849062
+extra_trees,Native importance (Gini/MDI),Current Liabilities/Equity,0.020501897994193864
+extra_trees,Native importance (Gini/MDI),Long-term Liability to Current Assets,0.003053524482155921
+extra_trees,Native importance (Gini/MDI),Retained Earnings to Total Assets,0.02232171043382147
+extra_trees,Native importance (Gini/MDI),Total income/Total expense,0.011708945376016801
+extra_trees,Native importance (Gini/MDI),Total expense/Assets,0.009178662756106131
+extra_trees,Native importance (Gini/MDI),Current Asset Turnover Rate,0.005095841557805852
+extra_trees,Native importance (Gini/MDI),Quick Asset Turnover Rate,0.007227486895962532
+extra_trees,Native importance (Gini/MDI),Working capitcal Turnover Rate,0.00529736488886732
+extra_trees,Native importance (Gini/MDI),Cash Turnover Rate,0.00924132073724402
+extra_trees,Native importance (Gini/MDI),Cash Flow to Sales,0.003051137740934326
+extra_trees,Native importance (Gini/MDI),Fixed Assets to Assets,0.008798006268072013
+extra_trees,Native importance (Gini/MDI),Equity to Long-term Liability,0.013146990848829756
+extra_trees,Native importance (Gini/MDI),Cash Flow to Total Assets,0.0065805200052246
+extra_trees,Native importance (Gini/MDI),Cash Flow to Liability,0.004882373476486832
+extra_trees,Native importance (Gini/MDI),CFO to Assets,0.009183008139919485
+extra_trees,Native importance (Gini/MDI),Cash Flow to Equity,0.004814823670966782
+extra_trees,Native importance (Gini/MDI),Current Liability to Current Assets,0.015532994213001462
+extra_trees,Native importance (Gini/MDI),Liability-Assets Flag,0.0009350151260853714
+extra_trees,Native importance (Gini/MDI),Net Income to Total Assets,0.027140611187774888
+extra_trees,Native importance (Gini/MDI),Total assets to GNP price,0.0038091788937357597
+extra_trees,Native importance (Gini/MDI),No-credit Interval,0.0027647068879288056
+extra_trees,Native importance (Gini/MDI),Net Income to Stockholder's Equity,0.017078830208601934
+extra_trees,Native importance (Gini/MDI),Liability to Equity,0.02324286814331039
+extra_trees,Native importance (Gini/MDI),Degree of Financial Leverage (DFL),0.005077354706339061
+extra_trees,Native importance (Gini/MDI),Interest Coverage Ratio (Interest expense to EBIT),0.006116862415668906
+extra_trees,Native importance (Gini/MDI),Equity to Liability,0.018738264457461018
+extra_trees,Mean |SHAP|,ROA(C) before interest and depreciation before interest,0.027155702073992868
+extra_trees,Mean |SHAP|,ROA(A) before interest and % after tax,0.02476162505458827
+extra_trees,Mean |SHAP|,ROA(B) before interest and depreciation after tax,0.02848527258474617
+extra_trees,Mean |SHAP|,Operating Gross Margin,0.006744388797304917
+extra_trees,Mean |SHAP|,Realized Sales Gross Margin,0.006417495755564351
+extra_trees,Mean |SHAP|,Operating Profit Rate,0.005464021961281455
+extra_trees,Mean |SHAP|,Pre-tax net Interest Rate,0.0071008361238670565
+extra_trees,Mean |SHAP|,After-tax net Interest Rate,0.007448024806263807
+extra_trees,Mean |SHAP|,Non-industry income and expenditure/revenue,0.0072653242556187944
+extra_trees,Mean |SHAP|,Continuous interest rate (after tax),0.00870833536423306
+extra_trees,Mean |SHAP|,Operating Expense Rate,0.006545827317006166
+extra_trees,Mean |SHAP|,Research and development expense rate,0.006289396748460469
+extra_trees,Mean |SHAP|,Cash flow rate,0.0075173906375391045
+extra_trees,Mean |SHAP|,Interest-bearing debt interest rate,0.009330094216767717
+extra_trees,Mean |SHAP|,Tax rate (A),0.02168093735811329
+extra_trees,Mean |SHAP|,Net Value Per Share (B),0.01883973839481562
+extra_trees,Mean |SHAP|,Net Value Per Share (A),0.01738361812440213
+extra_trees,Mean |SHAP|,Net Value Per Share (C),0.01719972368091039
+extra_trees,Mean |SHAP|,Persistent EPS in the Last Four Seasons,0.025484804622078125
+extra_trees,Mean |SHAP|,Cash Flow Per Share,0.00728856724219885
+extra_trees,Mean |SHAP|,Revenue Per Share (Yuan ¥),0.005711718114195522
+extra_trees,Mean |SHAP|,Operating Profit Per Share (Yuan ¥),0.008994464600275025
+extra_trees,Mean |SHAP|,Per Share Net profit before tax (Yuan ¥),0.02028953988348735
+extra_trees,Mean |SHAP|,Realized Sales Gross Profit Growth Rate,0.002866221129278907
+extra_trees,Mean |SHAP|,Operating Profit Growth Rate,0.002859206914684306
+extra_trees,Mean |SHAP|,After-tax Net Profit Growth Rate,0.003267800722818791
+extra_trees,Mean |SHAP|,Regular Net Profit Growth Rate,0.0034729457382954394
+extra_trees,Mean |SHAP|,Continuous Net Profit Growth Rate,0.003495414374263737
+extra_trees,Mean |SHAP|,Total Asset Growth Rate,0.014951081168945255
+extra_trees,Mean |SHAP|,Net Value Growth Rate,0.008208517236631623
+extra_trees,Mean |SHAP|,Total Asset Return Growth Rate Ratio,0.006366586172416435
+extra_trees,Mean |SHAP|,Cash Reinvestment %,0.006336443622958788
+extra_trees,Mean |SHAP|,Current Ratio,0.011384502907862094
+extra_trees,Mean |SHAP|,Quick Ratio,0.014215512233319143
+extra_trees,Mean |SHAP|,Interest Expense Ratio,0.007085750682241035
+extra_trees,Mean |SHAP|,Total debt/Total net worth,0.016177343332667255
+extra_trees,Mean |SHAP|,Debt ratio %,0.04425318057848621
+extra_trees,Mean |SHAP|,Long-term fund suitability ratio (A),0.0061321255455269435
+extra_trees,Mean |SHAP|,Borrowing dependency,0.02885740821352867
+extra_trees,Mean |SHAP|,Contingent liabilities/Net worth,0.004669010878083035
+extra_trees,Mean |SHAP|,Operating profit/Paid-in capital,0.01087846721305875
+extra_trees,Mean |SHAP|,Net profit before tax/Paid-in capital,0.02014243899127434
+extra_trees,Mean |SHAP|,Inventory and accounts receivable/Net value,0.008980016097271636
+extra_trees,Mean |SHAP|,Total Asset Turnover,0.01016031792877631
+extra_trees,Mean |SHAP|,Accounts Receivable Turnover,0.0038615515373118673
+extra_trees,Mean |SHAP|,Average Collection Days,0.006173660849690431
+extra_trees,Mean |SHAP|,Inventory Turnover Rate (times),0.006298090037782075
+extra_trees,Mean |SHAP|,Fixed Assets Turnover Frequency,0.017102727441341843
+extra_trees,Mean |SHAP|,Net Worth Turnover Rate (times),0.005482522710316149
+extra_trees,Mean |SHAP|,Revenue per person,0.005134001861981028
+extra_trees,Mean |SHAP|,Operating profit per person,0.0073745031592121965
+extra_trees,Mean |SHAP|,Allocation rate per person,0.007103665533862164
+extra_trees,Mean |SHAP|,Working Capital to Total Assets,0.021421570892272247
+extra_trees,Mean |SHAP|,Quick Assets/Total Assets,0.01162308067158124
+extra_trees,Mean |SHAP|,Current Assets/Total Assets,0.007636207637103163
+extra_trees,Mean |SHAP|,Cash/Total Assets,0.017340027026091574
+extra_trees,Mean |SHAP|,Quick Assets/Current Liability,0.011085373551228324
+extra_trees,Mean |SHAP|,Cash/Current Liability,0.008927319449724408
+extra_trees,Mean |SHAP|,Current Liability to Assets,0.025188249005131107
+extra_trees,Mean |SHAP|,Operating Funds to Liability,0.00772227747361235
+extra_trees,Mean |SHAP|,Inventory/Working Capital,0.0048058393208024125
+extra_trees,Mean |SHAP|,Inventory/Current Liability,0.005998612081892379
+extra_trees,Mean |SHAP|,Current Liabilities/Liability,0.007502207082682067
+extra_trees,Mean |SHAP|,Working Capital/Equity,0.010577288950429878
+extra_trees,Mean |SHAP|,Current Liabilities/Equity,0.01861837851702955
+extra_trees,Mean |SHAP|,Long-term Liability to Current Assets,0.004187767490333743
+extra_trees,Mean |SHAP|,Retained Earnings to Total Assets,0.018931151444722
+extra_trees,Mean |SHAP|,Total income/Total expense,0.014214693607749528
+extra_trees,Mean |SHAP|,Total expense/Assets,0.009201552178065564
+extra_trees,Mean |SHAP|,Current Asset Turnover Rate,0.00463233416011881
+extra_trees,Mean |SHAP|,Quick Asset Turnover Rate,0.006108724730819764
+extra_trees,Mean |SHAP|,Working capitcal Turnover Rate,0.005825706973448402
+extra_trees,Mean |SHAP|,Cash Turnover Rate,0.007955186218568671
+extra_trees,Mean |SHAP|,Cash Flow to Sales,0.004343866338656158
+extra_trees,Mean |SHAP|,Fixed Assets to Assets,0.008502115575709832
+extra_trees,Mean |SHAP|,Equity to Long-term Liability,0.011450949576664851
+extra_trees,Mean |SHAP|,Cash Flow to Total Assets,0.006785964579569807
+extra_trees,Mean |SHAP|,Cash Flow to Liability,0.006693431059335392
+extra_trees,Mean |SHAP|,CFO to Assets,0.00838443411138924
+extra_trees,Mean |SHAP|,Cash Flow to Equity,0.005377004854668683
+extra_trees,Mean |SHAP|,Current Liability to Current Assets,0.012469483667155725
+extra_trees,Mean |SHAP|,Liability-Assets Flag,0.002406964357233924
+extra_trees,Mean |SHAP|,Net Income to Total Assets,0.02514708135735128
+extra_trees,Mean |SHAP|,Total assets to GNP price,0.00498121751999506
+extra_trees,Mean |SHAP|,No-credit Interval,0.0041187199019474
+extra_trees,Mean |SHAP|,Net Income to Stockholder's Equity,0.017874887495533696
+extra_trees,Mean |SHAP|,Liability to Equity,0.021791140004667916
+extra_trees,Mean |SHAP|,Degree of Financial Leverage (DFL),0.007386444401995282
+extra_trees,Mean |SHAP|,Interest Coverage Ratio (Interest expense to EBIT),0.0068118628868709605
+extra_trees,Mean |SHAP|,Equity to Liability,0.02057302131625069
+catboost,Native importance (PredictionValuesChange),ROA(C) before interest and depreciation before interest,0.014490223998926315
+catboost,Native importance (PredictionValuesChange),ROA(A) before interest and % after tax,0.003738230454332926
+catboost,Native importance (PredictionValuesChange),ROA(B) before interest and depreciation after tax,0.010187892206845522
+catboost,Native importance (PredictionValuesChange),Operating Gross Margin,0.004478417512388317
+catboost,Native importance (PredictionValuesChange),Realized Sales Gross Margin,0.008868092668177714
+catboost,Native importance (PredictionValuesChange),Operating Profit Rate,0.007524774901068154
+catboost,Native importance (PredictionValuesChange),Pre-tax net Interest Rate,0.004808986665888704
+catboost,Native importance (PredictionValuesChange),After-tax net Interest Rate,0.010082072268404543
+catboost,Native importance (PredictionValuesChange),Non-industry income and expenditure/revenue,0.025024926044145013
+catboost,Native importance (PredictionValuesChange),Continuous interest rate (after tax),0.010006164519266987
+catboost,Native importance (PredictionValuesChange),Operating Expense Rate,0.015080847531985131
+catboost,Native importance (PredictionValuesChange),Research and development expense rate,0.008283340898464634
+catboost,Native importance (PredictionValuesChange),Cash flow rate,0.008517556821243603
+catboost,Native importance (PredictionValuesChange),Interest-bearing debt interest rate,0.04296024233094324
+catboost,Native importance (PredictionValuesChange),Tax rate (A),0.007905960067670952
+catboost,Native importance (PredictionValuesChange),Net Value Per Share (B),0.0059496748536175875
+catboost,Native importance (PredictionValuesChange),Net Value Per Share (A),0.012393872509428328
+catboost,Native importance (PredictionValuesChange),Net Value Per Share (C),0.007386118955540861
+catboost,Native importance (PredictionValuesChange),Persistent EPS in the Last Four Seasons,0.019783704079900207
+catboost,Native importance (PredictionValuesChange),Cash Flow Per Share,0.007397579551469682
+catboost,Native importance (PredictionValuesChange),Revenue Per Share (Yuan ¥),0.008414322532975745
+catboost,Native importance (PredictionValuesChange),Operating Profit Per Share (Yuan ¥),0.009707203774722279
+catboost,Native importance (PredictionValuesChange),Per Share Net profit before tax (Yuan ¥),0.006224680489390286
+catboost,Native importance (PredictionValuesChange),Realized Sales Gross Profit Growth Rate,0.013186610549815994
+catboost,Native importance (PredictionValuesChange),Operating Profit Growth Rate,0.0025675840115110178
+catboost,Native importance (PredictionValuesChange),After-tax Net Profit Growth Rate,0.00493939942524005
+catboost,Native importance (PredictionValuesChange),Regular Net Profit Growth Rate,0.006595393887690503
+catboost,Native importance (PredictionValuesChange),Continuous Net Profit Growth Rate,0.005086294845290147
+catboost,Native importance (PredictionValuesChange),Total Asset Growth Rate,0.013057243938300689
+catboost,Native importance (PredictionValuesChange),Net Value Growth Rate,0.012224333068019436
+catboost,Native importance (PredictionValuesChange),Total Asset Return Growth Rate Ratio,0.010321783685133503
+catboost,Native importance (PredictionValuesChange),Cash Reinvestment %,0.005452189100271344
+catboost,Native importance (PredictionValuesChange),Current Ratio,0.005364321683710014
+catboost,Native importance (PredictionValuesChange),Quick Ratio,0.020513161927744484
+catboost,Native importance (PredictionValuesChange),Interest Expense Ratio,0.015020934595396308
+catboost,Native importance (PredictionValuesChange),Total debt/Total net worth,0.01916254698411006
+catboost,Native importance (PredictionValuesChange),Debt ratio %,0.01673158966025801
+catboost,Native importance (PredictionValuesChange),Long-term fund suitability ratio (A),0.009738558570434111
+catboost,Native importance (PredictionValuesChange),Borrowing dependency,0.030952072852063844
+catboost,Native importance (PredictionValuesChange),Contingent liabilities/Net worth,0.009343909975835186
+catboost,Native importance (PredictionValuesChange),Operating profit/Paid-in capital,0.009699905372659051
+catboost,Native importance (PredictionValuesChange),Net profit before tax/Paid-in capital,0.008068045004212324
+catboost,Native importance (PredictionValuesChange),Inventory and accounts receivable/Net value,0.004468275578822552
+catboost,Native importance (PredictionValuesChange),Total Asset Turnover,0.007899616745074675
+catboost,Native importance (PredictionValuesChange),Accounts Receivable Turnover,0.015201932862404644
+catboost,Native importance (PredictionValuesChange),Average Collection Days,0.017991155161930585
+catboost,Native importance (PredictionValuesChange),Inventory Turnover Rate (times),0.0071617297008531285
+catboost,Native importance (PredictionValuesChange),Fixed Assets Turnover Frequency,0.01128207831281826
+catboost,Native importance (PredictionValuesChange),Net Worth Turnover Rate (times),0.011543832403948046
+catboost,Native importance (PredictionValuesChange),Revenue per person,0.015405878338925724
+catboost,Native importance (PredictionValuesChange),Operating profit per person,0.012095896401402762
+catboost,Native importance (PredictionValuesChange),Allocation rate per person,0.02475946510821588
+catboost,Native importance (PredictionValuesChange),Working Capital to Total Assets,0.006767326545651368
+catboost,Native importance (PredictionValuesChange),Quick Assets/Total Assets,0.00367389063381303
+catboost,Native importance (PredictionValuesChange),Current Assets/Total Assets,0.006517736096827829
+catboost,Native importance (PredictionValuesChange),Cash/Total Assets,0.010798086039596914
+catboost,Native importance (PredictionValuesChange),Quick Assets/Current Liability,0.005480563992399637
+catboost,Native importance (PredictionValuesChange),Cash/Current Liability,0.01142398797708274
+catboost,Native importance (PredictionValuesChange),Current Liability to Assets,0.010719290591356869
+catboost,Native importance (PredictionValuesChange),Operating Funds to Liability,0.005330345217264577
+catboost,Native importance (PredictionValuesChange),Inventory/Working Capital,0.02096681107884796
+catboost,Native importance (PredictionValuesChange),Inventory/Current Liability,0.008644282639458817
+catboost,Native importance (PredictionValuesChange),Current Liabilities/Liability,0.01373130491134701
+catboost,Native importance (PredictionValuesChange),Working Capital/Equity,0.008214042200840266
+catboost,Native importance (PredictionValuesChange),Current Liabilities/Equity,0.012466851274103541
+catboost,Native importance (PredictionValuesChange),Long-term Liability to Current Assets,0.010144668328615396
+catboost,Native importance (PredictionValuesChange),Retained Earnings to Total Assets,0.015470376145335996
+catboost,Native importance (PredictionValuesChange),Total income/Total expense,0.004950147442498289
+catboost,Native importance (PredictionValuesChange),Total expense/Assets,0.023685308042277618
+catboost,Native importance (PredictionValuesChange),Current Asset Turnover Rate,0.009233668203889796
+catboost,Native importance (PredictionValuesChange),Quick Asset Turnover Rate,0.006406533086403599
+catboost,Native importance (PredictionValuesChange),Working capitcal Turnover Rate,0.006598268520666807
+catboost,Native importance (PredictionValuesChange),Cash Turnover Rate,0.010086127716600298
+catboost,Native importance (PredictionValuesChange),Cash Flow to Sales,0.011161992591050008
+catboost,Native importance (PredictionValuesChange),Fixed Assets to Assets,0.010683687479137742
+catboost,Native importance (PredictionValuesChange),Equity to Long-term Liability,0.015766229583922327
+catboost,Native importance (PredictionValuesChange),Cash Flow to Total Assets,0.008287208315860927
+catboost,Native importance (PredictionValuesChange),Cash Flow to Liability,0.01006335550177819
+catboost,Native importance (PredictionValuesChange),CFO to Assets,0.00955909380291618
+catboost,Native importance (PredictionValuesChange),Cash Flow to Equity,0.008047349168696103
+catboost,Native importance (PredictionValuesChange),Current Liability to Current Assets,0.006782277530917933
+catboost,Native importance (PredictionValuesChange),Liability-Assets Flag,0.0
+catboost,Native importance (PredictionValuesChange),Net Income to Total Assets,0.00377910669295049
+catboost,Native importance (PredictionValuesChange),Total assets to GNP price,0.011902677856390358
+catboost,Native importance (PredictionValuesChange),No-credit Interval,0.010869289035007557
+catboost,Native importance (PredictionValuesChange),Net Income to Stockholder's Equity,0.013540508216367401
+catboost,Native importance (PredictionValuesChange),Liability to Equity,0.021874191295973348
+catboost,Native importance (PredictionValuesChange),Degree of Financial Leverage (DFL),0.011596716311835367
+catboost,Native importance (PredictionValuesChange),Interest Coverage Ratio (Interest expense to EBIT),0.009067552477931872
+catboost,Native importance (PredictionValuesChange),Equity to Liability,0.0206585220654968
+catboost,Mean |SHAP|,ROA(C) before interest and depreciation before interest,0.030602085520068083
+catboost,Mean |SHAP|,ROA(A) before interest and % after tax,0.005493357903849763
+catboost,Mean |SHAP|,ROA(B) before interest and depreciation after tax,0.01648163231891241
+catboost,Mean |SHAP|,Operating Gross Margin,0.0071784425004653
+catboost,Mean |SHAP|,Realized Sales Gross Margin,0.008584762026589601
+catboost,Mean |SHAP|,Operating Profit Rate,0.005717628717483442
+catboost,Mean |SHAP|,Pre-tax net Interest Rate,0.006664215969905027
+catboost,Mean |SHAP|,After-tax net Interest Rate,0.010013824235177882
+catboost,Mean |SHAP|,Non-industry income and expenditure/revenue,0.04385725717266022
+catboost,Mean |SHAP|,Continuous interest rate (after tax),0.013505297394915789
+catboost,Mean |SHAP|,Operating Expense Rate,0.008305360772469484
+catboost,Mean |SHAP|,Research and development expense rate,0.007951060781718278
+catboost,Mean |SHAP|,Cash flow rate,0.012007282797024212
+catboost,Mean |SHAP|,Interest-bearing debt interest rate,0.04532455171182015
+catboost,Mean |SHAP|,Tax rate (A),0.005231876514189899
+catboost,Mean |SHAP|,Net Value Per Share (B),0.00699114926784271
+catboost,Mean |SHAP|,Net Value Per Share (A),0.018064556875581582
+catboost,Mean |SHAP|,Net Value Per Share (C),0.010358482313097892
+catboost,Mean |SHAP|,Persistent EPS in the Last Four Seasons,0.02350685070128024
+catboost,Mean |SHAP|,Cash Flow Per Share,0.005354107913906361
+catboost,Mean |SHAP|,Revenue Per Share (Yuan ¥),0.005835671814277698
+catboost,Mean |SHAP|,Operating Profit Per Share (Yuan ¥),0.011339254650058138
+catboost,Mean |SHAP|,Per Share Net profit before tax (Yuan ¥),0.008841073515098252
+catboost,Mean |SHAP|,Realized Sales Gross Profit Growth Rate,0.00533996133680505
+catboost,Mean |SHAP|,Operating Profit Growth Rate,0.0028137690255283206
+catboost,Mean |SHAP|,After-tax Net Profit Growth Rate,0.0027840380267316624
+catboost,Mean |SHAP|,Regular Net Profit Growth Rate,0.004225387297374491
+catboost,Mean |SHAP|,Continuous Net Profit Growth Rate,0.005687085297030491
+catboost,Mean |SHAP|,Total Asset Growth Rate,0.00819465764551622
+catboost,Mean |SHAP|,Net Value Growth Rate,0.0135893118186674
+catboost,Mean |SHAP|,Total Asset Return Growth Rate Ratio,0.006658545600939594
+catboost,Mean |SHAP|,Cash Reinvestment %,0.004812683006138153
+catboost,Mean |SHAP|,Current Ratio,0.004972158196324294
+catboost,Mean |SHAP|,Quick Ratio,0.03599726776568835
+catboost,Mean |SHAP|,Interest Expense Ratio,0.00902950105373153
+catboost,Mean |SHAP|,Total debt/Total net worth,0.031336455071292485
+catboost,Mean |SHAP|,Debt ratio %,0.023692653085598297
+catboost,Mean |SHAP|,Long-term fund suitability ratio (A),0.006320442704264228
+catboost,Mean |SHAP|,Borrowing dependency,0.04401966112658288
+catboost,Mean |SHAP|,Contingent liabilities/Net worth,0.004186872027992375
+catboost,Mean |SHAP|,Operating profit/Paid-in capital,0.004701600116021017
+catboost,Mean |SHAP|,Net profit before tax/Paid-in capital,0.012035974708833226
+catboost,Mean |SHAP|,Inventory and accounts receivable/Net value,0.003738767493469965
+catboost,Mean |SHAP|,Total Asset Turnover,0.005428832551054284
+catboost,Mean |SHAP|,Accounts Receivable Turnover,0.017267123742309792
+catboost,Mean |SHAP|,Average Collection Days,0.017500232588530413
+catboost,Mean |SHAP|,Inventory Turnover Rate (times),0.00287703342996605
+catboost,Mean |SHAP|,Fixed Assets Turnover Frequency,0.008105704683243129
+catboost,Mean |SHAP|,Net Worth Turnover Rate (times),0.005295969765694641
+catboost,Mean |SHAP|,Revenue per person,0.01180620822705861
+catboost,Mean |SHAP|,Operating profit per person,0.010842262713031141
+catboost,Mean |SHAP|,Allocation rate per person,0.02384082643693785
+catboost,Mean |SHAP|,Working Capital to Total Assets,0.005711015112689024
+catboost,Mean |SHAP|,Quick Assets/Total Assets,0.0019031607663788585
+catboost,Mean |SHAP|,Current Assets/Total Assets,0.0035770563564114003
+catboost,Mean |SHAP|,Cash/Total Assets,0.012278544061836915
+catboost,Mean |SHAP|,Quick Assets/Current Liability,0.003965828747176028
+catboost,Mean |SHAP|,Cash/Current Liability,0.006618828184306834
+catboost,Mean |SHAP|,Current Liability to Assets,0.011837971520252025
+catboost,Mean |SHAP|,Operating Funds to Liability,0.005095426736703105
+catboost,Mean |SHAP|,Inventory/Working Capital,0.01362197219158816
+catboost,Mean |SHAP|,Inventory/Current Liability,0.006027627411551584
+catboost,Mean |SHAP|,Current Liabilities/Liability,0.004544716291910956
+catboost,Mean |SHAP|,Working Capital/Equity,0.0039547270272367535
+catboost,Mean |SHAP|,Current Liabilities/Equity,0.017769431560219207
+catboost,Mean |SHAP|,Long-term Liability to Current Assets,0.0056014787715080215
+catboost,Mean |SHAP|,Retained Earnings to Total Assets,0.02583621182004346
+catboost,Mean |SHAP|,Total income/Total expense,0.004126100433869763
+catboost,Mean |SHAP|,Total expense/Assets,0.010499416177448881
+catboost,Mean |SHAP|,Current Asset Turnover Rate,0.005579885418591281
+catboost,Mean |SHAP|,Quick Asset Turnover Rate,0.003103757032878581
+catboost,Mean |SHAP|,Working capitcal Turnover Rate,0.003932744373402273
+catboost,Mean |SHAP|,Cash Turnover Rate,0.008632033918124737
+catboost,Mean |SHAP|,Cash Flow to Sales,0.007650470377720907
+catboost,Mean |SHAP|,Fixed Assets to Assets,0.012455853511835304
+catboost,Mean |SHAP|,Equity to Long-term Liability,0.010386167453404089
+catboost,Mean |SHAP|,Cash Flow to Total Assets,0.005045659177532331
+catboost,Mean |SHAP|,Cash Flow to Liability,0.005244323365510563
+catboost,Mean |SHAP|,CFO to Assets,0.007539473303341101
+catboost,Mean |SHAP|,Cash Flow to Equity,0.003899060086892811
+catboost,Mean |SHAP|,Current Liability to Current Assets,0.010756297112986243
+catboost,Mean |SHAP|,Liability-Assets Flag,0.0
+catboost,Mean |SHAP|,Net Income to Total Assets,0.0052330118010897545
+catboost,Mean |SHAP|,Total assets to GNP price,0.006461350669510244
+catboost,Mean |SHAP|,No-credit Interval,0.008043509348597655
+catboost,Mean |SHAP|,Net Income to Stockholder's Equity,0.02233792352951258
+catboost,Mean |SHAP|,Liability to Equity,0.03203128683385098
+catboost,Mean |SHAP|,Degree of Financial Leverage (DFL),0.009245045771496218
+catboost,Mean |SHAP|,Interest Coverage Ratio (Interest expense to EBIT),0.00807888100555825
+catboost,Mean |SHAP|,Equity to Liability,0.027062982806284705
