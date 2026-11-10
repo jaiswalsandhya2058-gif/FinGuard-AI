@@ -107,3 +107,27 @@ Probability calibration; cost-sensitive thresholds; time-aware validation; model
 
 ## Screenshots
 See the `screenshots/` folder (dashboard, prediction studio, batch results, model intelligence, analytics, company report, light mode).
+
+## System architecture
+```mermaid
+flowchart LR
+    A[data/data.csv] --> B[Audit + cleaning]
+    B --> C[Stratified split]
+    C --> D[Train + tune<br/>SVM / Extra Trees / CatBoost]
+    D --> E[Evaluate on test set]
+    D --> F[SHAP / permutation importance]
+    E --> G[(models/ + reports/)]
+    F --> G
+    G --> H[Streamlit app]
+    U[Form / CSV upload] --> H
+    H --> I[prediction.py] --> G
+    I --> J[(SQLite history)]
+```
+More diagrams (training pipeline, application layers, prediction sequence, design decisions): [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+
+## Application screenshots
+| | |
+|---|---|
+| ![Dashboard](screenshots/01_dashboard.png) | ![Prediction Studio](screenshots/02_prediction_studio.png) |
+| ![Batch](screenshots/03_batch_prediction.png) | ![Model Intelligence](screenshots/04_model_intelligence.png) |
+| ![Analytics](screenshots/05_risk_analytics.png) | ![Report](screenshots/06_company_report.png) |
